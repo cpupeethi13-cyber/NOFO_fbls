@@ -93,8 +93,8 @@ body::before {
   letter-spacing: 0.05em;
 }
 .logo-img {
-  width: 18px;
-  height: 18px;
+  width: 15px;
+  height: 15px;
   object-fit: contain;
   border-radius: 50%;
 }
